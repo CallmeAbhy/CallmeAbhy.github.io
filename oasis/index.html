@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vadilal Ice cream pvt ltd</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section>
+        <div class="circle">
+
+        </div>
+        <header>
+            <a href="#" class="logo"><img src="logo.png"></a>
+            <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">MENU</a></li>
+                <li><a href="#">OUR DELIGHTS</a></li>
+                <li><a href="#">CONTACT</a></li>
+                </ul>
+            </header>
+            <div class="content">
+                <div class="textBox">
+                    <h2>
+                        The  <span>Best</span> part of Everyday life.</h2>
+                        
+                        <p>
+                            Did you just discover the dashing deliciousness of our Gourmet Super Premium ice cream; or the outright tasty flavours of the Badabite ice cream; or have you unlocked oodles of happiness with our Flingo; or did you just beat the heat with creamy Cool-fi? Whatever it may be, we are sure you will always find something that will make Vadilal the best part of your day. We, at Vadilal, believe that the love for ice cream is universal and we've always worked to uphold this position in your heart forever.
+                        </p>
+                        <a href="#">Learn more</a>
+                        
+                </div>
+                <div class="imgBox">
+                    <img src="sundaes.png" class="Vadilal">
+                </div>
+            </div>
+            <ul class="thumb">
+                <li><img src="thumb1.png"  onclick="imgSlider('sundaes.png'); changeCircleColor('red')"></li>
+                <li><img src="thumb2.png" onclick="imgSlider('chocalate.png'); changeCircleColor('#7B3F00')"></li>
+                <li><img src="thumb3.png"  onclick="imgSlider('Shrikhand-8.png'); changeCircleColor('#90EE90')"></li>
+            </ul>
+            <ul class="sci">
+                <li><a href="#"><img src="facebook.png"></li>
+                    <li><a href="#"><img src="instagram.png"></li>
+                        <li><a href="#"><img src="twitter.png"></li>
+            </ul>
+        </section>
+    <script type="text/javascript">
+         function imgSlider(anything) {
+             document.querySelector('.Vadilal').src = anything;
+         }
+         function changeCircleColor(color) {
+             const circle = document.querySelector('.circle');
+             circle.style.backgroundColor = color;
+         }
+    </script>
+</body>
+</html>
