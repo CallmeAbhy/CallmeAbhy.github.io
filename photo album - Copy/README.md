@@ -4,7 +4,7 @@
 
 ## HTML, CSS, JavaScript, JQuery, Bootstrap, PHP and MySQL
 
-## [See Demo Here](https://callmeabhy.github.io/photo%20album%20-%20Copy/)
+## [See Demo Here](https://callmeabhy.github.io/Album/login.html)
 
 ### Features
 
