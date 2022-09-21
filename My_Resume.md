@@ -8,7 +8,7 @@ I am passionate about building excellent software that improves the lives of tho
 
 <hr>
 
-[My Resume](https://drive.google.com/file/d/1sZwDQw25YNxnbQGCguXjYCn4QshcetLo/view?usp=sharing)
+[My Resume](https://drive.google.com/file/d/1R5q3L_uYrZWfjPX6bl2zXll8KKao-11g/view?usp=sharing)
 <hr>
 
 [Linkedin](https://www.linkedin.com/in/abhay-dusane-93844b228/)
