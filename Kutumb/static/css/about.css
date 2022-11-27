@@ -1,0 +1,19 @@
+   .bg-img1{
+   	background-image: url("../../uploads/images/Group_193.png");
+  	min-height: 680px;
+	/*background-position: center;*/
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+   }
+
+   .alum-about-heading2 {
+    border-bottom: 2px solid rgba(22,87,40,1);
+    padding-bottom: 5px;
+    color: rgba(22,87,40,1);
+    letter-spacing: 1px;
+    /*font-family: Bebas Neue;*/
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+   }

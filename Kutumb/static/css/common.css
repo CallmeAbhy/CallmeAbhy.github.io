@@ -1,0 +1,24 @@
+a {
+	color: green !important;
+}
+
+.btn-outline-info:hover {
+	background-color: #fdffff;
+}
+
+.form-control:focus {
+	box-shadow: 0 0 0 .25rem rgba(86, 196, 26, 0.49) !important;
+}
+.form-select:focus {
+	box-shadow: 0 0 0 .25rem rgba(86, 196, 26, 0.49) !important;	
+}
+
+.btn-primary {
+	background-color: #f9f4f4 !important;
+	color: green !important;
+	border-color: green;
+}
+
+.btn {
+	/*background-color: transparent !important;*/
+}

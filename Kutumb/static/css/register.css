@@ -1,0 +1,159 @@
+  .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    background-color: #006600 !important;
+    border-radius: 0px;
+  }
+  .nav-link {
+    color: #006600 !important;
+    border-radius: 0px;
+    font-weight: bold;
+  }
+  .nav{
+    background: #cbced552;
+    /*padding: 10px;*/
+  }
+  .heading {
+    /*background: #e3e3e387;*/
+    padding-top: 10px;
+
+  }
+
+  .tab-content{
+    background: #ffffffd1 !important;
+    margin-bottom:10px !important;
+  }
+  body{
+    /*background-image: url("https://c0.wallpaperflare.com/preview/587/410/452/baby-blue-eucalyptus-blank-blue-blue-background.jpg");*/
+    /*background-size: cover;*/
+    /*font-family: 'alegreya_sansregular', 'sans-serif';*/
+    /*font-family: "Cooper Hewitt","Helvetica Neue","Helvetica","Arial","sans-serif" !important;*/
+    font-family: Alegreya Sans !important;
+    /*background: #c4e4a9 !important;*/
+  }
+  .bg-light{
+    background: #dadde100 !important;
+    margin-top: 10px;
+    letter-spacing: 2px;
+  }
+  .navbar-light .navbar-brand {
+    font-weight: bold !important;
+    font-size: 30px !important;
+    color: #006600 !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    /*background: #ffa500cf;*/
+  }
+  .tab-content-body{
+    padding: 20px;
+  }
+  .btn-outline-secondary {
+    color: #006600;
+    border-color: #006600;
+  }
+
+  .bg-dark {
+    background-color: #19191a00 !important;
+  }
+  .card{
+    /*border-radius: 0px;*/
+    /*background-color: #ffffff4f;*/
+    color: #060 !important;
+    border:none;
+    padding-top: 3px;
+    border-radius: 0px;
+    padding-left: 3px;
+    padding-right: 3px;
+  }
+  .card-header{
+    border-bottom: 0px;
+    font-size: 14px;
+    background: #c4e4a9 !important;
+    border-radius: 0px !important;
+  }
+  .nav-pills .nav-link{
+    font-weight: bold;
+    font-size: 14px;
+  }
+  .aluminies_card{
+    text-align: center;enter;
+    padding-top: 20px;
+    transition: 0.7s ease;
+    z-index:9;
+    border: 1px solid green
+  }
+  .aluminies_card:hover {
+    /*background: #006600 !important;*/
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
+  /*color: black; */
+  z-index: 10;
+  border: 1px solid green !important;
+  }
+  .nav-link:hover{
+  background: #006600 !important;    
+  color: white !important;
+  border-radius: 0px;
+  }
+  .aluminies_card .card-img-top {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .list-group-item {
+    background: #ffffff82;
+  }
+  .navbar-collapse {
+    flex-grow: 0 !important;
+  }
+  .nav-item{
+    font-size: 14px;  
+  }
+  .navbar-expand-lg .navbar-nav{
+    margin-right: 10px !important;
+  }
+  .bg-light {
+  background: #dadde100 !important;
+  margin-top: 10px;
+  letter-spacing: 2px;
+  max-width: inherit !important;
+  display: block;
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+  background: #fefffe !important;
+  border: 1px solid green;
+  left: 0px;
+  right: 0px;
+  top:0;
+  margin: auto;
+}
+.carousel-caption {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 65%, rgba(0, 0, 0, 0.85) 100%);
+  margin-left:0px;
+  margin-right:0px;
+  /*width: 100%;*/
+  right: 0px !important;
+  left:  0px !important;
+  bottom: 0px;
+}
+.border-bottom {
+  border-bottom: 1px solid #6f9912 !important
+}
+
+.btn-outline-info{
+    color: green !important;
+    border-color: green !important;
+}
+.border-top {
+  border-top: 1px solid green !important;
+}
+
+.btn-check:focus + .btn-outline-info, .btn-outline-info:focus {
+  box-shadow: 0 0 0 .25rem rgba(113, 134, 105, 0.29) !important;
+}
+
+.btn-outline-info:hover {
+    background-color: rgba(22,87,40,1) !important;
+    border-color: #0dcaf0;
+    color: white !important;
+}

@@ -102,7 +102,7 @@ button:hover{
     animation: slider 6s linear infinite;
 
 }
-@keyframes slider {
+    @keyframes slider {
     0%{margin-top: -400px;}
     5%{margin-top: -200px;}
     30%{margin-top: -200px;}
